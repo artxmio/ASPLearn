@@ -1,0 +1,6 @@
+@ASPLearn_HostAddress = http://localhost:5008
+
+GET {{ASPLearn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
